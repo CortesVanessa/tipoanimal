@@ -1,0 +1,20 @@
+body {
+    background-color: #d8c5dd;
+    background:url(./cafe1.jpg)no-repeat;
+    font-family: Rubik, Arial;
+    color: #1c1d1d;
+    
+  }
+
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 2px solid #34798a;
+    border-radius: 5px;
+  }
+
+.mi-container{
+
+  left:15px;
+}
